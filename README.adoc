@@ -14,10 +14,10 @@ You keep doing things, and most of those will end without any significant result
 However, once in a while, things will take off and become super stars.
 In the seemingly mundane life portfolio of yours, there is a huge jack pot waiting to happen.
 
-Bezos says "Double the number of experiments, double the inventiveness."
+Bezos says `Double the number of experiments, double the inventiveness.`
 
 ====== The conclusion is... ======
 
-Fail Fast. Keep doing it. Keep exploring ideas. Life is full of surprises.
+`Fail Fast.` Keep doing it. Keep exploring ideas. Life is full of surprises.
 
 Just Do It. Just keep buying the index fund.
